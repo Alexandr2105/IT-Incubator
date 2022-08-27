@@ -1,8 +1,8 @@
 // Понимание чувствительности к регистру в переменных
-var studLycapVar;
+var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
 
-studLycapVar = 10;
+studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
