@@ -1,9 +1,5 @@
 function reverseWords(str) {
-    let a = str.split(" ");
-    a.reverse();
-    let s = "";
-    for (const i of a) {
-        s += i + " ";
+    function reverseWords(str) {
+        return str.split(" ").reverse().join(" ");
     }
-    return s.trim(); // reverse those words
 }
