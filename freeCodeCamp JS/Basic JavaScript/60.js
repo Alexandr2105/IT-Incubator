@@ -1,6 +1,6 @@
 // Сравнение с оператором равенства
 function testEqual(val) {
-    if (val == 12) {
+    if (val === 12) {
         return "Equal";
     }
     return "Not Equal";

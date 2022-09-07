@@ -1,5 +1,5 @@
 // Присваивание с возвращаемым значением
-let processed = 0;
+let processed;
 
 function processArg(num) {
     return (num + 3) / 5;

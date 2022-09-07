@@ -1,6 +1,6 @@
 // Знакомство с операторами Else
 function testElse(val) {
-    let result = "";
+    let result;
     if (val > 5) {
         result = "Bigger than 5";
     } else {

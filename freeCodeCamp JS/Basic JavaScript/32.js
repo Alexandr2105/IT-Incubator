@@ -1,5 +1,5 @@
 // Найдите длину строки
-let lastNameLength = 0;
+let lastNameLength;
 const lastName = "Lovelace";
 
 lastNameLength = lastName.length;

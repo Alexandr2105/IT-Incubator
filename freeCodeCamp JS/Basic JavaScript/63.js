@@ -1,6 +1,6 @@
 // Сравнение с оператором неравенства
 function testNotEqual(val) {
-    if (val != 99) { // Change this line
+    if (val !== 99) { // Change this line
         return "Not Equal";
     }
     return "Equal";
