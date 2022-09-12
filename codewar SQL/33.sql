@@ -1,6 +1,6 @@
 SELECT
 capital
 FROM countries
-WHERE continent LIKE'Afri%' AND country LIKE 'E%'
+WHERE continent LIKE 'Afri%' AND country LIKE 'E%'
 ORDER BY capital
 LIMIT 3
